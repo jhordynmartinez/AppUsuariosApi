@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078659800590",
+    "project_id": "appusuariosapi",
+    "storage_bucket": "appusuariosapi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078659800590:android:c4900abcec31b5e6a6665f",
+        "android_client_info": {
+          "package_name": "com.example.appusuariosapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCakvxYdVoUyoOIeZ73LOr_MayT62hs-0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
